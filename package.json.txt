@@ -1,0 +1,17 @@
+basicaly a shoping list for all the packages.
+whoever using the list of pakages can easily go and install all of the thing on that 'package.json'
+
+
+Wrap:
+'package.json' contains abunch of metadata about a particular application or a package.
+
+
+
+
+
+
+
+
+
+
+
