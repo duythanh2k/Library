@@ -5,7 +5,7 @@ whoever using the list of pakages can easily go and install all of the thing on 
 Wrap:
 'package.json' contains abunch of metadata about a particular application or a package.
 
-
+The nay duoc chua????
 
 
 
